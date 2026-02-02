@@ -1,0 +1,633 @@
+<!-- templates/index.html -->
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Drug + Patient Assessment</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    :root {
+      --bg: #f9f9fb;
+      --card: #ffffff;
+      --muted: #6b7280;
+      --primary: #1a73e8;
+      --shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      --radius: 12px;
+    }
+
+    body {
+      font-family: 'Inter', system-ui, Roboto, Arial, sans-serif;
+      background: var(--bg);
+      margin: 0;
+      padding: 24px;
+      color: #111827
+    }
+
+    h2 { color: var(--primary); }
+    h3 { margin-top: 0; color: #111827 }
+    h4 { margin: 18px 0 10px; color: #374151 }
+
+    .card {
+      background: var(--card);
+      padding: 28px 32px;
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      margin-bottom: 24px
+    }
+
+    .hint { color: var(--muted); font-size: 0.86rem }
+    label { display: block; margin: 8px 0 4px; font-weight: 600; font-size: 0.95rem }
+
+    input, select, textarea {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: var(--radius);
+      border: 1px solid #e2e8f0;
+      font-size: 0.95rem;
+      box-sizing: border-box;
+      background: #fefefe;
+      transition: all .2s
+    }
+    input:focus, select:focus, textarea:focus {
+      border-color: var(--primary);
+      box-shadow: 0 0 0 3px rgba(26, 115, 232, .15);
+      outline: none
+    }
+
+    button {
+      background: var(--primary);
+      color: #fff;
+      padding: 12px 22px;
+      border: none;
+      border-radius: var(--radius);
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.95rem;
+      transition: all .2s
+    }
+    button:hover { filter: brightness(0.95) }
+
+    .muted-note { color: var(--muted); font-size: 0.88rem; margin-top: 12px }
+
+    .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px }
+    .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px }
+    .grid-4 { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px }
+    .grid-1 { display: grid; grid-template-columns: 1fr; gap: 16px }
+
+    @media(max-width:1024px) {
+      .grid-4 { grid-template-columns: repeat(2, 1fr) }
+      .grid-3 { grid-template-columns: repeat(2, 1fr) }
+    }
+    @media(max-width:640px) { .grid-4, .grid-3, .grid-2 { grid-template-columns: 1fr } }
+
+    table {
+      border-collapse: collapse; width: 100%; margin-top: 14px; font-size: 0.95rem;
+      border-radius: var(--radius); overflow: hidden
+    }
+    th, td { padding: 12px 16px; border-bottom: 1px solid #e5e7eb; text-align: left; vertical-align: top }
+    thead tr { background: #f3f4f6 }
+
+    .ai-summary {
+      background: #f9fafb; padding: 16px; border-radius: var(--radius);
+      border: 1px solid #e5e7eb; margin-top: 12px; word-break: break-word; line-height: 1.5
+    }
+
+    .patient-summary {
+      padding: 14px 16px; border-radius: var(--radius);
+      border: 1px solid #e5e7eb; margin-bottom: 12px;
+      font-size: 0.95rem; line-height: 1.7
+    }
+    .core { background: #f0f7ff; border-color: #cfe0fc; color: #1e40af }
+    .factors { background: #fff8eb; border-color: #fcd34d; color: #92400e }
+    .safety { background: #fff5f5; border-color: #fca5a5 }
+
+    .muted { color: var(--muted) }
+    .risk { color: #991b1b; font-weight: 600 }
+
+    .alert-block {
+      border-left: 4px solid var(--primary); background: #f9fafb;
+      padding: 10px 14px; margin-bottom: 10px; border-radius: 8px
+    }
+    .alert-block strong { color: var(--primary) }
+
+    .chip {
+      display: inline-block; background: #eef2ff; color: #3730a3;
+      padding: 4px 10px; border-radius: 9999px; font-size: .82rem; font-weight: 600
+    }
+    .chip.red { background: #fee2e2; color: #991b1b }
+    .chip.yellow { background: #fef3c7; color: #92400e }
+    .chip.green { background: #dcfce7; color: #065f46 }
+    .chip.gray { background: #e5e7eb; color: #374151 }
+
+    .code {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 8px; padding: 6px 8px;
+    }
+
+    /* Generic accordion styling */
+    .accordion details { border: 1px solid #e5e7eb; border-radius: 10px; padding: 8px 12px; background: #fff; }
+    .accordion details+details { margin-top: 10px; }
+    .accordion details[open] { background: #f9fafb; }
+
+    /* Route accordion (nested) */
+    .route-accordion details { border: 1px solid #e5e7eb; border-radius: 10px; padding: 8px 12px; background: #fff; }
+    .route-accordion details+details { margin-top: 10px; }
+    .route-accordion details[open] { background: #f9fafb; }
+
+    .summary-line { cursor: pointer; display: flex; align-items: center; gap: 8px; }
+    .summary-line::-webkit-details-marker { display: none; }
+    .summary-line::after { content: '▸'; margin-left: auto; transition: transform .2s ease; }
+    details[open] .summary-line::after { transform: rotate(90deg); }
+
+    .card-safe { border: 3px solid #22c55e; }    /* green */
+    .card-caution { border: 3px solid #facc15; } /* yellow */
+    .card-danger { border: 3px solid #ef4444; }  /* red */
+
+    /* parsed-display specific small tweaks */
+    .parsed-grid { display:flex; gap:12px; flex-wrap:wrap; align-items:center; margin-top:8px; }
+    .parsed-item { background:#fff; padding:8px 12px; border-radius:10px; border:1px solid #e6eefc; font-size:0.95rem; }
+    .parsed-label { color:var(--muted); font-size:0.85rem; display:block; margin-bottom:6px; }
+  </style>
+</head>
+
+<body>
+
+  <div class="card">
+    <h2>Drug + Patient Assessment</h2>
+    <form action="/analyze" method="post" enctype="multipart/form-data" id="assessmentForm">
+      <!-- Source & Drug -->
+      <h4>Source & Drug</h4>
+      <div class="grid-3">
+        <div>
+          <label>Upload Monograph</label>
+          <input type="file" name="monograph" accept=".txt,.html,.htm" required>
+          <div class="hint">HTML or TXT monograph works best.</div>
+        </div>
+        <div>
+          <label>Drug Name</label>
+          <input name="drug_name" placeholder="e.g., Diclofenac" required>
+        </div>
+      </div>
+
+      <!-- Core Prescription -->
+      <h4>Core Prescription</h4>
+      <div class="grid-3">
+        <div>
+          <label>Indication</label>
+          <input name="indication" placeholder="e.g., UTI, Pneumonia" required>
+        </div>
+        <div>
+          <label>Treatment Duration (days)</label>
+          <input name="duration_days" inputmode="numeric" placeholder="e.g., 7" required>
+        </div>
+        <div>
+          <label>Proposed Dose</label>
+          <input name="proposed_dose" id="proposed_dose" placeholder="e.g., 50 mg every 8 hours" required>
+          <div class="hint">Free text is okay (e.g., “100 mg orally every 12 h”).</div>
+        </div>
+      </div>
+
+      <!-- Demographics -->
+      <h4>Demographics</h4>
+      <div class="grid-3">
+        <div>
+          <label>Age (years)</label>
+          <input name="age" inputmode="numeric" placeholder="e.g., 60">
+        </div>
+        <div>
+          <label>Sex</label>
+          <select name="sex" id="sex">
+            <option value=""></option>
+            <option>Male</option>
+            <option>Female</option>
+            <option>Other</option>
+          </select>
+        </div>
+        <div>
+          <label>Weight (kg)</label>
+          <input name="weight" inputmode="decimal" placeholder="e.g., 70">
+          <div class="hint">Needed for mg/kg/day checks.</div>
+        </div>
+      </div>
+
+      <!-- Reproductive Status -->
+      <h4>Reproductive Status</h4>
+      <div class="grid-2">
+        <div>
+          <label>Pregnant?</label>
+          <select name="pregnant" id="pregnant">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+          </select>
+        </div>
+        <div>
+          <label>Breastfeeding?</label>
+          <select name="breastfeeding" id="breastfeeding">
+            <option value="no">No</option>
+            <option value="yes">Yes</option>
+          </select>
+        </div>
+      </div>
+      <div class="hint" style="margin-top:6px">Shown for all sexes for inclusivity; app will handle logic.</div>
+
+      <!-- Organ Function & Labs -->
+      <h4>Organ Function & Labs</h4>
+      <div class="grid-4">
+        <div>
+          <label>Renal Impairment</label>
+          <select name="renal_impairment" id="renal_impairment">
+            <option value="">None</option>
+            <option>Mild</option>
+            <option>Moderate</option>
+            <option>Severe</option>
+          </select>
+        </div>
+        <div>
+          <label>Hepatic Impairment</label>
+          <select name="hepatic_impairment" id="hepatic_impairment">
+            <option value="">None</option>
+            <option>Mild</option>
+            <option>Moderate</option>
+            <option>Severe</option>
+          </select>
+        </div>
+        <div>
+          <label>eGFR (mL/min)</label>
+          <input name="egfr" id="egfr" inputmode="decimal" placeholder="e.g., 80">
+        </div>
+        <div>
+          <label>CrCl (mL/min)</label>
+          <input name="crcl" id="crcl" inputmode="decimal" placeholder="e.g., 90">
+        </div>
+        <div>
+          <label>Serum Creatinine (Scr, mg/dL)</label>
+          <input name="scr" id="scr" inputmode="decimal" placeholder="e.g., 1.2">
+        </div>
+      </div>
+      <div class="hint" style="margin-top:6px">If impairment is selected, lab inputs become more relevant and help
+        trigger renal/hepatic alerts.</div>
+
+      <!-- Allergies  -->
+      <h4>Allergies </h4>
+      <div class="grid-2">
+        <div>
+          <label>Allergies</label>
+          <input name="allergies" id="allergies" placeholder="e.g., aspirin; Methotrexate">
+          <div class="hint">Comma or semicolon separated.</div>
+        </div>
+      </div>
+
+      <div style="margin-top:16px; display:flex; gap:12px; flex-wrap:wrap;">
+        <button type="submit">Analyze</button>
+        <span class="muted-note">Tip: upload a product monograph like the Diclofenac file.</span>
+      </div>
+    </form>
+  </div>
+
+  {% if report %}
+  {% set aeval = report.details.allergy_eval %}
+  {% set allergy_block_danger = (aeval and aeval.direct_drug_allergy) %}
+  <div class="card
+  {% if report.dosage_recommendation_status == 'safe' %} card-safe
+  {% elif report.dosage_recommendation_status == 'caution' %} card-caution
+  {% elif report.dosage_recommendation_status == 'danger' %} card-danger
+  {% endif %}">
+    <h3>Assessment for <span style="color:var(--primary)">{{ drug_name }}</span></h3>
+
+    <h4>🧍 Patient Summary</h4>
+    <div class="patient-summary core">
+      <strong>Core Prescription:</strong><br>
+      Drug: <strong>{{ patient.drug_name or '-' }}</strong> &nbsp; | &nbsp;
+      Dose: <strong>{{ patient.proposed_dose or '-' }}</strong> &nbsp; | &nbsp;
+      <!-- Route: <strong>{{ patient.selected_route or '-' }}</strong> &nbsp; | &nbsp; -->
+      Duration: <strong>{{ patient.duration_days or '-' }} days</strong> &nbsp; | &nbsp;
+      Indication: <strong>{{ patient.indication or '-' }}</strong>
+    </div>
+
+    <div class="patient-summary factors">
+      <strong>Key Patient Factors:</strong><br>
+      Age: <strong>{{ patient.age or '-' }}</strong> &nbsp; | &nbsp;
+      Sex: <strong>{{ patient.sex or '-' }}</strong> &nbsp; | &nbsp;
+      Weight: <strong>{{ patient.weight_kg or '-' }} kg</strong> &nbsp; | &nbsp;
+      Renal: <strong>{{ patient.renal_impairment or '-' }}</strong>
+      (eGFR: <strong>{{ patient.egfr or '-' }}</strong>,
+      CrCl: <strong>{{ patient.crcl or '-' }}</strong>,
+      Scr: <strong>{{ patient.scr or '-' }}</strong>) &nbsp; | &nbsp;
+      Hepatic: <strong>{{ patient.hepatic_impairment or '-' }}</strong>
+    </div>
+
+    <div class="patient-summary safety">
+      <strong>Safety Modifiers:</strong><br>
+      <span class="{% if patient.pregnant %}risk{% else %}muted{% endif %}">
+        Pregnant: {{ 'Yes' if patient.pregnant else 'No' }}
+      </span> &nbsp; | &nbsp;
+      <span class="{% if patient.breastfeeding %}risk{% else %}muted{% endif %}">
+        Breastfeeding: {{ 'Yes' if patient.breastfeeding else 'No' }}
+      </span> &nbsp; | &nbsp;
+      <span class="{% if patient.allergies %}risk{% else %}muted{% endif %}">
+        Allergies:
+        {% if patient.allergies %}
+          {% for al in patient.allergies %}
+            <span class="chip">{{ al }}</span>{% if not loop.last %} {% endif %}
+          {% endfor %}
+        {% else %}
+          -
+        {% endif %}
+      </span>
+    </div>
+
+    {# ==== Display parsed dose math (proposed vs monograph heuristic) ==== #}
+    {% set parsed_p = (report.details.proposed_dose_parsed if report.details and report.details.proposed_dose_parsed is defined else None) %}
+    {% set parsed_m = (report.details.monograph_dose_parsed if report.details and report.details.monograph_dose_parsed is defined else None) %}
+    {% if parsed_p or parsed_m %}
+      <h4>🔢 Parsed Dose Math</h4>
+      <div class="ai-summary">
+        <div class="parsed-grid">
+          <div class="parsed-item">
+            <span class="parsed-label"><strong>Proposed (parsed):</strong></span>
+            {% if parsed_p and parsed_p.per_admin %}
+              {% if parsed_p.freq %}
+                {{ parsed_p.per_admin|round(2) }} mg × {{ parsed_p.freq }} /day = {{ (parsed_p.per_admin * parsed_p.freq)|round(2) }} mg/day
+              {% elif parsed_p.total %}
+                {{ parsed_p.total|round(2) }} mg/day
+              {% else %}
+                {{ parsed_p.per_admin|round(2) }} mg (frequency not provided)
+              {% endif %}
+            {% elif parsed_p and parsed_p.total %}
+              {{ parsed_p.total|round(2) }} mg/day
+            {% else %}
+              <span class="muted">Not parsed</span>
+            {% endif %}
+          </div>
+
+          <div class="parsed-item">
+            <span class="parsed-label"><strong>Monograph (heuristic):</strong></span>
+            {% if parsed_m and parsed_m.per_admin %}
+              {% if parsed_m.freq %}
+                {{ parsed_m.per_admin|round(2) }} mg × {{ parsed_m.freq }} /day = {{ (parsed_m.per_admin * parsed_m.freq)|round(2) }} mg/day
+              {% elif parsed_m.total %}
+                {{ parsed_m.total|round(2) }} mg/day
+              {% else %}
+                {{ parsed_m.per_admin|round(2) }} mg (frequency not detected)
+              {% endif %}
+            {% elif parsed_m and parsed_m.total %}
+              {{ parsed_m.total|round(2) }} mg/day
+            {% else %}
+              <span class="muted">Not detected</span>
+            {% endif %}
+          </div>
+
+          <div class="parsed-item" style="min-width:190px;">
+            <span class="parsed-label"><strong>Comparison:</strong></span>
+            {% if parsed_p and parsed_m and (parsed_p.total is not none) and (parsed_m.total is not none) %}
+              {% if parsed_p.total > parsed_m.total %}
+                <span class="chip red">Proposed total ({{ parsed_p.total|round(2) }} mg/day) exceeds monograph total ({{ parsed_m.total|round(2) }} mg/day)</span>
+              {% elif parsed_p.total < parsed_m.total %}
+                <span class="chip yellow">Proposed total ({{ parsed_p.total|round(2) }} mg/day) below monograph total ({{ parsed_m.total|round(2) }} mg/day)</span>
+              {% else %}
+                <span class="chip green">Proposed total equals monograph total ({{ parsed_p.total|round(2) }} mg/day)</span>
+              {% endif %}
+            {% elif parsed_p and parsed_m and (parsed_p.per_admin is not none) and (parsed_m.per_admin is not none) %}
+              {% if parsed_p.per_admin > parsed_m.per_admin %}
+                <span class="chip red">Per-admin higher than monograph per-admin range.</span>
+              {% elif parsed_p.per_admin < parsed_m.per_admin %}
+                <span class="chip yellow">Per-admin lower than monograph per-admin range.</span>
+              {% else %}
+                <span class="chip green">Per-admin matches monograph per-admin.</span>
+              {% endif %}
+            {% else %}
+              <span class="muted">Insufficient parsed data to compare automatically.</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    {% endif %}
+
+    {# ==== Allergy Assessment + gating variable (no re-assignment below) ==== #}
+    {% set aeval = (report.details.allergy_eval if report.details and report.details.allergy_eval is defined else None) %}
+
+    {% if aeval or patient.allergies %}
+      <h4>🧯 Allergy Assessment</h4>
+      <div class="ai-summary">
+        {% if aeval %}
+          {% set sev = (aeval.severity or 'info') %}
+          <div style="margin-bottom:8px;">
+            <span class="chip {% if sev=='danger' %}red{% elif sev=='caution' %}yellow{% elif sev=='safe' %}green{% else %}gray{% endif %}">
+              Severity: {{ sev|capitalize }}
+            </span>
+            {% if aeval.direct_drug_allergy %}
+              <span class="chip red">Direct drug allergy</span>
+            {% endif %}
+          </div>
+
+          {% if aeval.matches %}
+            <div style="margin-bottom:6px;"><strong>Findings:</strong></div>
+            <ul style="margin-top:6px;">
+              {% for m in aeval.matches %}
+                <li>{{ m }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {% if aeval.actions %}
+            <div style="margin-top:10px;"><strong>Suggested Action:</strong> {{ aeval.actions|join(' ') }}</div>
+          {% endif %}
+
+          {# ✨ Detailed no-conflict text, polished by pipes.py when available #}
+          {% if not aeval.matches and patient.allergies %}
+            <div class="muted" style="margin-top:6px;">
+              {{ aeval.no_conflict_note_polished or aeval.no_conflict_note }}
+            </div>
+            {% if aeval.unmatched_allergies %}
+              <div class="hint" style="margin-top:6px;">
+                Unmatched in monograph/drug context:
+                {{ aeval.unmatched_allergies | join(', ') }}.
+              </div>
+            {% endif %}
+          {% endif %}
+        {% else %}
+          <div class="muted">Allergies provided, but allergy evaluator output is unavailable. Structured Alerts may still reflect generic allergy warnings.</div>
+        {% endif %}
+      </div>
+    {% endif %}
+
+    {# ===== Hide all deeper evidence only if there's a direct drug allergy ===== #}
+    {% if not allergy_block_danger %}
+
+      {% if narrative_one_paragraph %}
+      <h4>📝 One-paragraph Narrative</h4>
+      <div class="ai-summary">{{ narrative_one_paragraph | safe }}</div>
+      {% endif %}
+
+      <!-- Extracted routes & doses -->
+      <h4>🧪 Extracted Routes & Dosages</h4>
+
+      {% set route_cases = (report.details.route_cases if report.details and report.details.route_cases is defined else {}) %}
+      {% if route_cases %}
+      <table>
+        <thead>
+          <tr>
+            <th style="width:16%">Route</th>
+            <th style="width:22%">Fixed doses (mg)</th>
+            <th style="width:16%">Min–Max (mg)</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for r, case in route_cases|dictsort %}
+          {% set doses = case.doses_mg or [] %}
+          {% set sents = case.sentences or [] %}
+          <tr>
+            <td><strong>{{ r }}</strong></td>
+            <td>
+              {% if doses %}
+              {{ doses|map('float')|map('round', 2)|list|join(', ') }}
+              {% else %}
+              <span class="muted">—</span>
+              {% endif %}
+            </td>
+            <td>
+              {% if doses %}
+              {{ (doses|min)|round(2) }}–{{ (doses|max)|round(2) }}
+              {% else %}
+              <span class="muted">—</span>
+              {% endif %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <div class="ai-summary">No route-specific dosage signals were extracted from the monograph.</div>
+      {% endif %}
+
+      <!-- ACCORDION: Evidence by Route (Polished) -->
+      {% if report.route_cases_polished %}
+      <div class="accordion" style="margin-top:16px;display: none;">
+        <details>
+          <summary class="summary-line"><span style="font-weight:700;color:#111827">📚 Evidence by Route (Polished)</span></summary>
+          <div class="ai-summary route-accordion">
+            {% for rname, bundle in report.route_cases_polished.items() %}
+            <details class="route-item" {% if loop.first %}open{% endif %}>
+              <summary class="summary-line">
+                <span style="font-weight:700; color:#111827">{{ rname }}</span>
+                {% if bundle.doses_mg %}
+                <span class="chip">Fixed doses: {{ bundle.doses_mg|length }}</span>
+                {% endif %}
+                {% if bundle.sentences_polished %}
+                <span class="chip">Evidence</span>
+                {% else %}
+                <span class="chip" style="background:#fee2e2; color:#991b1b;">No evidence</span>
+                {% endif %}
+              </summary>
+
+              <div style="margin-top:8px;">
+                {% if bundle.doses_mg %}
+                <div class="hint" style="margin:6px 0 8px;">
+                  Fixed-dose values seen (mg): {{ bundle.doses_mg|join(', ') }}
+                </div>
+                {% endif %}
+
+                {% if bundle.sentences_polished %}
+                <div style="line-height:1.6; white-space:pre-wrap;">{{ bundle.sentences_polished }}</div>
+                {% else %}
+                <div class="muted">No polished evidence available for this route.</div>
+                {% endif %}
+              </div>
+            </details>
+            {% endfor %}
+          </div>
+        </details>
+      </div>
+      {% endif %}
+
+      <!-- ACCORDION: Dose Evidence Summary -->
+      {% if report.dose_summary_html %}
+      <div class="accordion" style="margin-top:12px;display: none;">
+        <details>
+          <summary class="summary-line"><span style="font-weight:700;color:#111827">📌 Dose Evidence Summary</span></summary>
+          <div class="ai-summary">{{ report.dose_summary_html | safe }}</div>
+        </details>
+      </div>
+      {% endif %}
+
+      <!-- ACCORDION: Structured Alerts -->
+      {% if report.structured_alerts_html %}
+      <div class="accordion" style="margin-top:12px;display: none;">
+        <details>
+          <summary class="summary-line"><span style="font-weight:700;color:#111827">⚠️ Structured Alerts</span></summary>
+          <div class="ai-summary">{{ report.structured_alerts_html | safe }}</div>
+        </details>
+      </div>
+      {% endif %}
+
+      <!-- ACCORDION: Full AI Report -->
+      {% if full_ai_report %}
+      <div class="accordion" style="margin-top:12px;display: none;">
+        <details>
+          <summary class="summary-line"><span style="font-weight:700;color:#111827">📄 Full AI Report</span></summary>
+          <div class="ai-summary">{{ full_ai_report | safe }}</div>
+        </details>
+      </div>
+      {% endif %}
+
+      <!-- ACCORDION: Dashboard -->
+      {% if dashboard_html %}
+      <div class="accordion" style="margin-top:12px;display: none;">
+        <details>
+          <summary class="summary-line"><span style="font-weight:700;color:#111827">📊 Dashboard</span></summary>
+          <div class="ai-summary">{{ dashboard_html | safe }}</div>
+        </details>
+      </div>
+      {% endif %}
+
+    {% endif %} {# /if not allergy_block_danger #}
+
+    <!-- ACCORDION: Dosage Recommendation (always shown if provided) -->
+    {% if report.dosage_recommendations_html %}
+    <div class="accordion" style="margin-top:12px;">
+      <details open>
+        <summary class="summary-line"><span style="font-weight:700;color:#111827">💡 Dosage Recommendation</span></summary>
+        <div class="ai-summary">{{ report.dosage_recommendations_html | safe }}</div>
+      </details>
+    </div>
+    {% endif %}
+
+  </div>
+  {% endif %}
+
+  <script>
+    // Dependent logic: enable labs when impairment selected
+    const renalSel = document.getElementById('renal_impairment');
+    const hepaticSel = document.getElementById('hepatic_impairment');
+    const egfr = document.getElementById('egfr');
+    const crcl = document.getElementById('crcl');
+    const scr = document.getElementById('scr');
+
+    function toggleLabEnabling() {
+      const renalVal = (renalSel?.value || '').toLowerCase();
+      const hepaticVal = (hepaticSel?.value || '').toLowerCase();
+      const enableLabs = ['mild', 'moderate', 'severe'].includes(renalVal) || ['mild', 'moderate', 'severe'].includes(hepaticVal);
+      [egfr, crcl, scr].forEach(el => { if (el) el.disabled = !enableLabs; });
+    }
+    renalSel?.addEventListener('change', toggleLabEnabling);
+    hepaticSel?.addEventListener('change', toggleLabEnabling);
+    toggleLabEnabling();
+
+    // Expand/Collapse all for route evidence (inner accordion)
+    const expandBtn = document.getElementById('expandAllRoutes');
+    const collapseBtn = document.getElementById('collapseAllRoutes');
+
+    function setAll(openState) {
+      document.querySelectorAll('.route-accordion details').forEach(d => { d.open = openState; });
+    }
+    expandBtn?.addEventListener('click', () => setAll(true));
+    collapseBtn?.addEventListener('click', () => setAll(false));
+
+    // Route-aware dose placeholder (kept for UX, even if route is auto-inferred)
+    const doseInput = document.getElementById('proposed_dose');
+    // no route selector in UI by design
+  </script>
+</body>
+
+</html>

@@ -1,0 +1,581 @@
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Diclofenac</title></head><body><h2 style="text-align:center; border-radius: 3px; margin-bottom:3px; padding:7px; background:##e7f5ff; color:#0095ff; ">Diclofenac</h2><h3 style="color:#ff5050;">Box warning</h3><table align="center"><tbody><tr><td><p>CARDIOVASCULAR EVENTS</p><ul><li>Non-steroidal anti-inflammatory drugs (NSAIDs) cause an increased risk of serious cardiovascular thrombotic events, including Myocardial infarction and Stroke, which can be fatal. This risk may occur early in treatment and may increase with duration of use.<em>[Refer <a id="642ea9b76b3fd6884b63e312" href="javascript:void(0);">Special warnings and precautions</a>] </em></li><li>Diclofenac is <strong>contraindicated</strong> in the setting of Coronary artery bypass graft (CABG) surgery.<em>[Refer <a id="642ea9b76b3fd6884b63e311" href="javascript:void(0);">Contraindications</a></em>and<em><a id="642ea9b76b3fd6884b63e312" href="javascript:void(0);">Special warnings and precautions</a></em><em>] </em></li></ul><p>GASTROINTESTINAL EVENTS</p><ul><li>NSAIDs cause an increased risk of serious gastrointestinal (GI) adverse events including bleeding, ulceration, and perforation of the stomach or intestine, which can be fatal. These events can occur at any time during use and without warning symptoms. Elderly patients and patients with a prior history of Peptic ulcer disease and/or GI bleeding are at greater risk for serious GI events. <em>[Refer </em><em><a id="642ea9b76b3fd6884b63e312" href="javascript:void(0);">Special warnings and precautions</a></em><em>] </em></li></ul></td></tr></tbody></table><h3 style="color:#ff5050;">Introduction</h3><p><strong>Diclofenac</strong> is a non-steroidal benzene acetic acid derivative. It is used in the management and treatment of inflammatory conditions and pain.</p><p><strong>Mechanism of action:</strong></p><div> As a Non-steroidal anti-inflammatory drug (NSAID), Diclofenac binds and chelatesboth isoforms of cyclooxygenase (COX-1 and COX-2), thereby blocking the conversion of arachidonic acid to pro-inflammatory-proprostaglandins. This agent also may inhibitCOX-2-mediated tumor angiogenesis. When inhibiting COX-2, Diclofenac may be effective in relieving pain and inflammation.</div><p><strong>Classification:</strong></p><p><strong> WHO-ATC codes:</strong></p><p><strong>    Diclofenac</strong>-M01AB05,D11AX18,M02AA15,S01BC03.</p><h3 style="color:#ff5050;">Off-label indications</h3><ul><li>Conditions such as Biliary colic, Corneal abrasion, Fever, Gout, Myalgia, Post-episiotomy pain.</li></ul><h3 style="color:#ff5050;">Indications</h3><p><strong>Oral: </strong></p><p><strong>Tablet</strong>(AsDiclofenac sodium,Diclofenac potassium)</p><ul><li>For the treatment of primary Dysmenorrhea.</li><li>For the relief of mild to moderate pain.</li><li>For the relief of signs and symptoms of Rheumatoid arthritis, and Osteoarthritis.</li></ul><p>Powder for solution (As Diclofenac potassium)</p><ul><li>For the Acute treatment of Migraine attacks with or without Aura in adults.</li></ul><p><strong>Parenteral:</strong></p><p><strong>Solution for injection</strong>(AsDiclofenac sodium)</p><ul><li>For the management of mild to severe pain, alone or in combination with Opioid analgesics.</li></ul><p><strong>Topical:</strong></p><p><strong>Topical solution</strong>(AsDiclofenac sodium)</p><ul><li>For the treatment of the pain of Osteoarthritis of the knee(s).</li></ul><p><strong>Transdermal patch (</strong>Diclofenac epolamine)</p><ul><li>For the topical treatment of Acute pain due to minor strains, sprains, and contusions in adults and pediatric patients 6 years and older.</li></ul><p><strong>Topical Gel: </strong>(Diclofenac sodium,Diclofenac diethylamine)</p><ul><li>For the topical treatment of Actinic keratosis (AK) and for the temporary relief of Arthritis pain only in the following areas:<ul><li>Hand, wrist, elbow (upper body area).</li><li>Foot, ankle, knee (lower body area).</li></ul></li></ul><p><strong>Ophthalmic:</strong></p><p><strong>Solution/Drops</strong>(AsDiclofenac sodium)</p><ul><li>For the treatment of Post-operative inflammation in patients who have undergone Cataract extraction and for the temporary relief of pain and photophobia in patients undergoing Corneal refractive surgery.</li><li>Non-chronic post-traumatic inflammation in non-penetrating wounds.</li></ul><p><strong>Rectal:</strong></p><p><strong>Suppositories</strong>(AsDiclofenac sodium)</p><ul><li>For inflammatory and degenerative forms of rheumatism: Rheumatoid arthritis and Osteoarthritis.</li><li>For the short term (up to 3 days) treatment of post-operative pain in children.</li></ul><p><strong>Additional information:</strong></p><ul><li>As NSAIDs, Diclofenac do <strong>not</strong> treat clinical disease or prevent its progression and only relieves symptoms and decrease the inflammation for as long as the patient continues to take.</li></ul><h3 style="color:#ff5050;">Dosage Forms, Routes & Strengths</h3><p><strong>Table 1: Route of administration, dosage forms and strengths.</strong></p><table><tbody><tr><td><p>Routeof administration</p></td><td><p>Dosage forms</p></td><td><p>Salts form</p></td><td><p>Strengths</p></td></tr><tr><td rowspan="2" colspan="1"><p>Oral</p></td><td><p>Tablet</p></td><td><p>Diclofenac sodium</p><p>Diclofenac potassium</p></td><td><p>50 mg, 75 mg, 100 mg </p></td></tr><tr><td>Powder for solution</td><td>Diclofenac potassium</td><td>50 mg</td></tr><tr><td><p>Parenteral</p></td><td><p>Solution for injection</p></td><td><p>Diclofenac sodium</p></td><td><p>25 mg/mL, 75 mg/mL</p></td></tr><tr><td rowspan="3"><p>Topical</p></td><td><p>Solution</p></td><td><p>Diclofenac sodium</p></td><td><p>1 % w/v, 1.5% w/v, 3% w/v</p></td></tr><tr><td><p>Transdermal system (Patch)</p></td><td><p>Diclofenac epolamine</p></td><td><p>100 mg, 200 mg</p></td></tr><tr><td><p>Gel</p></td><td><p>Diclofenac sodium</p><p>Diclofenac diethylamine</p></td><td><p>1% w/w</p><p>2% w/w, 3%w/w</p></td></tr><tr><td><p>Ophthalmic</p></td><td><p>Solution</p></td><td><p>Diclofenac sodium</p></td><td><p>0.1% w/v (1 mg/mL)</p></td></tr><tr><td><p>Rectal</p></td><td><p>Suppository</p></td><td><p>Diclofenac sodium</p></td><td><p>12.5 mg, 25 mg, 50 mg, 100 mg </p></td></tr></tbody></table><h3 style="color:#ff5050;">Dosage & Administration</h3><p><strong>Recommended Dosage:</strong></p><p><strong>Oral:</strong></p><p><strong>Tablet</strong>(AsDiclofenac sodium,Diclofenac potassium)</p><p>For treatment of Pain or primary Dysmenorrhea:</p><ul><li>The recommended dosage is 50 mg three times a day.</li></ul><p>For the relief of Osteoarthritis:</p><ul><li>The recommended dosage is 100 to 150 mg/day in divided doses.</li></ul><p>For the relief of Rheumatoid arthritis:</p><ul><li>The recommended dosage is 150 to 200 mg/day in divided doses(50 mg three times a day or four times a day).</li></ul><p><strong>Parenteral:</strong></p><p><strong>Solution for injection</strong>(AsDiclofenac sodium)</p><p>For the treatment of Acute pain:</p><ul><li>The recommended dose is 75 mg administered by intravenous bolus injection over 15 seconds.</li><li>Do not exceed 150 mg total daily dose.</li></ul><p><strong>Topical:</strong></p><p><strong>Topical solution</strong>(AsDiclofenac sodium)</p><p>For relief of the pain of Osteoarthritis (OA) of the knee(s):</p><ul><li><div>Use the lowest effective dosage for the shortest duration consistent with individual patient treatment goals.</div></li></ul><p><strong>Transdermal patch(</strong>Diclofenac epolamine)</p><ul><li>The recommended dose is one topical patch to the most painful area twice a day both in adults and pediatric patients 6 years of age and older.</li></ul><p><strong>Gel</strong>(Diclofenac sodium,Diclofenac diethylamine)</p><ul><li>Apply Diclofenac topical gel gently to lesion areas twice daily to adequately cover each lesion.</li><li>The recommended duration of therapy is from 60 days to 90 days.</li><li>Complete healing of the lesion(s) or optimal therapeutic effect may not be evident for up to 30 days following cessation of therapy.</li><li>Avoid contact of Diclofenac sodium topical gel with eyes and mucous membranes.</li></ul><p>For Arthritis pain:</p><ul><li>Usual recommended dose is 4 times a day. Do not use more than 2 body areas at the same time.</li></ul><p><strong>Ophthalmic:</strong></p><p><strong>Solution/drops</strong>(AsDiclofenac sodium)</p><p>Cataract surgery:</p><ul><li>One drop of ophthalmic solution should be applied to the affected eye, 4 times daily beginning 24 hours after Cataract surgery and continuing throughout the first 2 weeks of the post-operative period.</li></ul><p>Corneal refractive surgery:</p><ul><li>One or two drops of ophthalmic solution should be applied to the operative eye within the hour prior to Corneal refractive surgery. Within 15 minutes after surgery, one or two drops should be applied to the operative eye and continued 4 times daily for up to 3 days.</li><li>To prevent the active substances from being washed out when additional ophthalmic medication is used, leave an interval of at least 5 minutes between each application.</li><li>Soft contact lenses should not be worn during treatment. The lenses must be removed before application of the drops and not reinserted earlier than 15 minutes after use.</li></ul><p>Non-chronic post-traumatic inflammation in non-penetrating wounds:</p><ul><li>Instil 1 drop in the conjunctival sac 4 to 5 times daily, depending upon the severity of the disease. Eye swab for culture should be taken before initiation of therapy.</li></ul><p><strong>Rectal:</strong></p><p><strong>Suppositories</strong>(AsDiclofenac sodium)</p><p>Post-operative analgesia:</p><ul><li>A first dose of 1-2 mg/kg followed by 1 mg/kg three times daily for a maximum of three days total therapy. The maximum daily dose is 3 mg/kg and 150 mg/day.</li><li>Should <strong>not</strong> be used in children under 12 months of age.</li></ul><p><strong>Drug administration instructions:</strong></p><p><strong>Oral:</strong></p><p><strong>Tablet</strong></p><ul><li>Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals.<em>[</em><em>Refer </em><em><a id="642ea9b76b3fd6884b63e312" href="javascript:void(0);">Special warnings and precautions</a>]</em></li><li>After observing the response to initial therapy with Diclofenac, the dose and frequency should be adjusted to suit an individual patient's needs.</li></ul><p><strong>Parenteral:</strong></p><ul><li>To reduce the risk of renal adverse reactions, patients must be well hydrated prior to administration of Diclofenac injection.</li><li>Visually inspect parenteral drug products for particulate matter and discoloration prior to administration. If visibly opaque particles and discoloration are observed, the solution should not be used.</li></ul><h3 style="color:#ff5050;">Contraindications</h3><p><strong>Diclofenac is contraindicated in;</strong></p>
+
+<ul>
+	<li>Patients with known hypersensitivity (e.g., anaphylactic reactions and serious skin reactions) to Diclofenac or any of its excipients in the formulation.<em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e312">Special warnings and precautions</a></em><em>]</em></li>
+	<li>Patients with a history of Asthma, Urticaria, or allergic-type reactions after taking Aspirin or other NSAIDs. Severe, sometimes fatal, anaphylactic reactions to NSAIDs have been reported in such patients.<em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e312">Special warnings and precautions</a></em><em>]</em></li>
+	<li>Severe uncontrolled heart failure and the conditions of Coronary artery bypass graft (CABG) surgery. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e312">Special warnings and precautions</a></em><em>]</em></li>
+	<li>The third trimester of pregnancy, because of risks of premature closure of the ductus arteriosus, and prolonged parturition.</li>
+	<li>Women who are breastfeeding, because of the potential for serious adverse reactions in lactating infants.</li>
+	<li>Active Gastric/Duodenal/Peptic ulcer, active GI bleeding or perforation, regional Ulcer, Gastritis or Ulcerative colitis, Inflammatory bowel disease.</li>
+	<li>Cerebrovascular bleeding or other bleeding disorders.</li>
+	<li>Severe Hepatic impairment or Active liver disease.</li>
+	<li>Severe Renal impairment (Creatinine clearance &lt; 30 mL/min or 0.5 mL/sec) or deteriorating Renal disease (individuals with lesser degrees of Renal impairment are at risk of deterioration of their renal function when prescribed NSAIDs and must be monitored).<em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e312">Special warnings and precautions</a></em><em>]</em></li>
+	<li>Known Hyperkalemia. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e312">Special warnings and precautions</a></em><em>]</em></li>
+	<li>Moderate to severe renal insufficiency in the perioperative period and who are at risk for volume depletion (parenteral).<em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e312">Special warnings and precautions</a></em><em>]</em></li>
+	<li>Use on non-intact or damaged skin resulting from any etiology, including exudative Dermatitis, Eczema, infection lesions, burns or wounds.(Topical)</li>
+</ul><h3 style="color:#ff5050;">Special Warnings & Precautions</h3><p><strong>Cardiovascular thrombotic events:</strong></p>
+
+<ul>
+	<li>Several COX-2 selective and non-selective NSAIDs have shown an increased risk of serious cardiovascular (CV) thrombotic events, including Myocardial infarction (MI) and Stroke, which can be fatal.</li>
+	<li>However, patients with known CV disease or risk factors had a higher absolute incidence of excess serious CV thrombotic events, due to their increased baseline rate.</li>
+	<li>To minimize the potential risk for an adverse CV event in NSAID-treated patients, use the lowest effective dose for the shortest duration possible.</li>
+	<li>The concurrent use of Aspirin and an NSAID, such as Diclofenac, increases the risk of serious gastrointestinal (GI) events.</li>
+</ul>
+
+<p>Status Post Coronary Artery Bypass Graft (CABG) Surgery:</p>
+
+<ul>
+	<li>COX-2 selective NSAID for the treatment of pain in the first 10 to 14 days following CABG surgery found an increased incidence of Myocardial infarction and Stroke. NSAIDs are contraindicated in the setting of CABG. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e311">Contraindications</a>]</em></li>
+</ul>
+
+<p>Post-myocardial infarction (MI) patients:</p>
+
+<ul>
+	<li>Avoid the use of Diclofenac in patients with a recent MI unless the benefits are expected to outweigh the risk of recurrent CV thrombotic events. If Diclofenac is used in patients with a recent MI, monitor patients for signs of Cardiac ischemia.</li>
+</ul>
+
+<p><strong>Gastrointestinal bleeding, Ulceration, and Perforation:</strong></p>
+
+<ul>
+	<li>NSAIDs, including Diclofenac, cause serious gastrointestinal (GI) adverse events including inflammation, bleeding, ulceration, and perforation of the oesophagus, stomach, small intestine, or large intestine, which can be fatal.</li>
+	<li>These serious adverse events can occur at any time, with or without warning symptoms, in patients treated with NSAIDs.</li>
+</ul>
+
+<p>Risk factors for GI bleeding, ulceration, and perforation:</p>
+
+<ul>
+	<li>Prior history of Peptic ulcer disease and/or GI bleeding who use NSAIDs had a greater risk for developing a GI bleed.</li>
+	<li>Other factors that increase the risk of GI bleeding: patients treated with NSAIDs include longer duration of NSAID therapy, concomitant use of oral Corticosteroids, Aspirin, Anticoagulants, or Selective serotonin reuptake inhibitors (SSRIs), smoking, alcohol use, older age, and poor general health status, elderly or debilitated patients.</li>
+	<li>Patients with advanced Liver disease and/or Coagulopathy.</li>
+</ul>
+
+<p>Strategies to minimize the GI risks in NSAID-treated patients:</p>
+
+<ul>
+	<li>Use the lowest effective dosage for the shortest possible duration.</li>
+	<li>Avoid administration of more than one NSAID at a time.</li>
+	<li>Avoid use in patients at higher risk unless benefits are expected to outweigh the increased risk of bleeding. For such patients, as well as those with active GI bleeding, consider alternate therapies, other than NSAIDs.</li>
+	<li>Monitor for signs and symptoms of GI ulceration and bleeding during NSAID therapy.</li>
+	<li>If a serious GI adverse event is suspected, promptly initiate evaluation and treatment, and discontinue therapy until a serious GI adverse event is ruled out.</li>
+	<li>In the setting of concomitant use of low-dose Aspirin for Cardiac prophylaxis, closely monitor for evidence of GI bleeding. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e314">Drug interactions</a></em><em>]</em></li>
+</ul>
+
+<p><strong>Hepatotoxicity:</strong></p>
+
+<ul>
+	<li>Meaningful elevations of ALT and/or AST, included marked elevations have occured.</li>
+	<li>Elevations in transaminases were seen more frequently in patients with Osteoarthritis than in those with Rheumatoid arthritis.</li>
+	<li>In post-marketing reports, cases of drug-induced Hepatotoxicity have been reported in the first and two months of therapy, but can occur at any time during treatment with Diclofenac.</li>
+	<li>Post-marketing surveillance has reported cases of severe Hepatic reactions, including Liver necrosis, Jaundice, Fulminant hepatitis with and without Jaundice, and Liver failure. Some of these reported cases resulted in fatalities or liver transplantation.</li>
+	<li>If abnormal liver tests persist or worsen, if clinical signs and/or symptoms consistent with Liver disease develop, or if systemic manifestations occur (e.g., Eosinophilia, Rash, abdominal pain, Diarrhea, dark urine, etc.), Diclofenac should be <strong>discontinued</strong> immediately. Inform patients of the warning signs and symptoms of Hepatotoxicity (e.g., Nausea, Fatigue, Lethargy, Diarrhea, Pruritus, Jaundice, right upper quadrant tenderness, and "flu-like" symptoms).</li>
+	<li>If clinical signs and symptoms consistent with liver disease develop, or if systemic manifestations occur (e.g., eosinophilia, rash, etc.), discontinue Diclofenac immediately, and perform a clinical evaluation of the patient.</li>
+	<li>To minimize the potential risk, use the lowest effective dose for the shortest duration possible. Exercise caution when prescribing Diclofenac with concomitant drugs that are known to be potentially hepatotoxic (e.g., Acetaminophen, Antibiotics, Anti-epileptics).</li>
+</ul>
+
+<p><strong>Hypertension:</strong></p>
+
+<ul>
+	<li>NSAIDs, including Diclofenac can lead to new onset of Hypertension or worsening of pre-existing Hypertension, either of which may contribute to the increased incidence of CV events.</li>
+	<li>Patients taking angiotensin converting enzyme (ACE) inhibitors, Thiazides diuretics or Loop diuretics may have impaired response to these therapies when taking NSAIDs. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e314">Drug interactions</a></em><em>]</em></li>
+	<li>Monitor blood pressure (BP) during the initiation of NSAID treatment and throughout the course of therapy.</li>
+</ul>
+
+<p><strong>Heart failure and Edema:</strong></p>
+
+<ul>
+	<li>Patients with Heart failure, NSAID use increased the risk of MI, hospitalization for Heart failure, and death.</li>
+	<li>If they are used in patients with severe Heart failure, monitor patients for signs of worsening Heart failure.</li>
+	<li>Avoid the use of Diclofenac in patients with severe Heart failure unless the benefits are expected to outweigh the risk of worsening Heart failure.</li>
+	<li>Additionally, fluid retention and Edema have been observed in some patients treated with NSAIDs.</li>
+	<li>Use of Diclofenac may blunt the CV effects of several therapeutic agents used to treat these medical conditions (e.g., Diuretics, ACE inhibitors, or angiotensin receptor blockers [ARBs]. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e314">Drug interactions</a></em><em>]</em></li>
+</ul>
+
+<p><strong>Renal toxicity and Hyperkalemia:</strong></p>
+
+<p>Renal toxicity</p>
+
+<ul>
+	<li>Long-term administration of NSAIDs has resulted in renal papillary necrosis and other renal injury.</li>
+	<li>Renal toxicity has also been seen in patients in whom renal prostaglandins have a compensatory role in the maintenance of renal perfusion.</li>
+	<li>In these patients, administration of an NSAID may cause a dose-dependent reduction in prostaglandin formation and, secondarily, in renal blood flow, which may precipitate overt renal decompensation.</li>
+	<li>Patients at greatest risk of this reaction are those with Impaired renal function, Dehydration, Hypovolemia, Heart failure, Liver dysfunction, those taking Diuretics and ACE inhibitors or ARBs, and the elderly. Discontinuation of NSAID therapy is usually followed by recovery to the pretreatment state.</li>
+	<li>Diclofenac injection is <strong>not</strong> recommended in patients with moderate to severe renal insufficiency and is <strong>contraindicated</strong> in patients with moderate to severe renal insufficiency in the perioperative period and who are at risk for volume depletion.</li>
+	<li>Correct volume status in Dehydrated or Hypovolemic patients prior to initiating Diclofenac.</li>
+	<li>Monitor Renal function in patients with Renal or Hepatic impairment, Heart failure, Dehydration, or Hypovolemia during use of Diclofenac.<em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e314">Drug interactions</a>]</em></li>
+	<li>Avoid the use of Diclofenac in patients with advanced renal disease unless the benefits are expected to outweigh the risk of worsening renal function.</li>
+	<li>If Diclofenac tablets are used in patients with advanced renal disease, monitor patients for signs of worsening renal function.</li>
+</ul>
+
+<p>Hyperkalemia:</p>
+
+<ul>
+	<li>Increases in serum potassium concentration, including Hyperkalemia, have been reported with use of NSAIDs, even in some patients without Renal impairment.</li>
+	<li>In patients with normal renal function, these effects have been attributed to a hyporeninemic-hypoaldosteronism state.</li>
+</ul>
+
+<p><strong>Anaphylactic reactions:</strong></p>
+
+<ul>
+	<li>Diclofenac has been associated with anaphylactic reactions. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e311">Contraindications</a></em><em>]</em></li>
+</ul>
+
+<p><strong>Exacerbation of Asthma related to Aspirin sensitivity:</strong></p>
+
+<ul>
+	<li>A subpopulation of patients with Asthma may have Aspirin-sensitive Asthma which may include Chronic rhinosinusitis complicated by nasal polyps, severe, potentially fatal bronchospasm and/or intolerance to Aspirin and other NSAIDs.</li>
+	<li>Because cross reactivity between Aspirin and other NSAIDs has been reported in such Aspirin-sensitive patients, Diclofenac is <strong>contraindicated</strong> in patients with this form of Aspirin sensitivity. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e311">Contraindications</a></em><em>]</em></li>
+	<li>When Diclofenac is used in patients with pre-existing Asthma (without known Aspirin sensitivity), monitor patients for changes in the signs and symptoms of Asthma.</li>
+</ul>
+
+<p><strong>Serious skin reactions:</strong></p>
+
+<ul>
+	<li>NSAIDs, including Diclofenac, can cause serious skin adverse events such as Exfoliative dermatitis, Stevens-Johnson Syndrome (SJS), and Toxic epidermal necrolysis (TEN), which can be fatal.</li>
+	<li>These serious events may occur without warning.</li>
+	<li>Discontinue the use of Diclofenac at the first appearance of skin rash or any other sign of hypersensitivity.</li>
+	<li>Diclofenac are <strong>contraindicated</strong> in patients with previous serious skin reactions to NSAIDs. <em>[</em><em>Refer </em><em><a href="javascript:void(0);" id="642ea9b76b3fd6884b63e311">Contraindications</a></em><em>]</em></li>
+</ul>
+
+<p><strong>Drug reaction with eosinophilia and systemic symptoms (DRESS):</strong></p>
+
+<ul>
+	<li>Drug Reaction with Eosinophilia and Systemic Symptoms (DRESS) has been reported with Diclofenac, some of these events have been fatal or life-threatening. DRESS typically, although not exclusively, presents with fever, rash, lymphadenopathy, and/or facial swelling.</li>
+	<li>Other clinical manifestations may include Hepatitis, Nephritis, Hematological abnormalities, Myocarditis, or Myositis, sometimes symptoms of DRESS may resemble an acute viral infection.</li>
+	<li>Eosinophilia is often present, because this disorder is variable in its presentation, other organ systems not noted here may be involved.</li>
+	<li>Early manifestations of hypersensitivity, such as fever or lymphadenopathy, may be present even though rash is not evident. If such signs or symptoms are present, discontinue Diclofenac and evaluate the patient immediately.</li>
+</ul>
+
+<p><strong>Fetal toxicity:</strong></p>
+
+<p>Premature closure of fetal ductus arteriosus:</p>
+
+<ul>
+	<li>Avoid use of NSAIDs, including Diclofenac, in pregnant women at about 30 weeks gestation and later.</li>
+	<li>NSAIDs including Diclofenac increase the risk of premature closure of the fetal ductus arteriosus at approximately this gestational age.</li>
+</ul>
+
+<p>Oligohydramnios/Neonatal renal impairment:</p>
+
+<ul>
+	<li>Use of NSAIDs, including Diclofenac, at about 20 weeks gestation or later in pregnancy may cause fetal renal dysfunction leading to Oligohydramnios and, in some cases, neonatal Renal impairment.</li>
+	<li>Oligohydramnios has been infrequently reported as soon as 48 hours after NSAID initiation.</li>
+	<li>Oligohydramnios is often, but not always, reversible with treatment discontinuation. Complications of prolonged oligohydramnios may, include limb contractures and delayed lung maturation.</li>
+	<li>In some post-marketing cases of impaired neonatal renal function, invasive procedures such as exchange transfusion or dialysis were required.</li>
+	<li>If NSAID treatment is necessary between about 20 weeks and 30 weeks gestation, limit Diclofenac use to the lowest effective dose and shortest duration possible. Consider ultrasound monitoring of amniotic fluid if Diclofenac treatment extends beyond 48 hours.</li>
+	<li>Discontinue Diclofenac if Oligohydramnios occurs and follow up according to clinical practice.</li>
+</ul>
+
+<p><strong>Hematological toxicity:</strong></p>
+
+<ul>
+	<li>Anemia has occurred in NSAID-treated patients.This may be due to occult or gross blood loss, fluid retention, or an incompletely described effect upon erythropoiesis.</li>
+	<li>If a patient treated with Diclofenac has any signs or symptoms of Anemia, monitor hemoglobin or hematocrit.</li>
+	<li>Comorbid conditions such as coagulation disorders, concomitant use of Warfarin and other Anticoagulants, Antiplatelet agents (e.g., Aspirin), Serotonin reuptake inhibitors (SSRIs) and Serotonin norepinephrine reuptake inhibitors (SNRIs) may increase this risk. Monitor these patients for signs of bleeding.</li>
+</ul>
+
+<p><strong>Laboratory monitoring:</strong></p>
+
+<ul>
+	<li>Because serious GI bleeding, Hepatotoxicity, and renal injury can occur without warning symptoms or signs, on long-term NSAID treatment consider monitoring patients with a CBC and chemistry profile periodically.</li>
+</ul>
+
+<p><strong>Sun exposure</strong> (Topical solution)</p>
+
+<ul>
+	<li>Instruct patients to avoid exposure to natural or artificial sunlight on treated knee(s).</li>
+</ul>
+
+<p><strong>Eye exposure: </strong>(Topical solution, Gel)</p>
+
+<ul>
+	<li>Avoid contact with eyes and mucosa. Advise patients that if eye contact occurs, immediately wash out the eye with water or saline and consult a physician if irritation persists for more than an hour.</li>
+</ul>
+
+<p><strong>Oral Non-steroidal anti-inflammatory Drugs:</strong></p>
+
+<ul>
+	<li>Concomitant use of oral NSAIDs with Diclofenac sodium topical solution 1.5% resulted in a higher rate of rectal hemorrhage, more frequent abnormal creatinine, urea and hemoglobin. Therefore, do not use combination therapy with Diclofenac sodium topical solution and an oral NSAID unless the benefit outweighs the risk and conduct periodic laboratory evaluations.</li>
+</ul>
+
+<p><strong>Photosensitivity:</strong> (Gel)</p>
+
+<ul>
+	<li>Patients should minimize or avoid exposure to natural or artificial sunlight (tanning beds or UVA/B treatment) while using topical gel.</li>
+	<li>Advise patients to discontinue treatment with Diclofenac topical gel at the first evidence of sunburn.</li>
+</ul>
+
+<p><strong>Ophthalmic solution/drops:</strong></p>
+
+<ul>
+	<li>The refractive stability of patients undergoing corneal refractive procedures and treated with Diclofenac sodium Ophthalmic has not been established. Patients should be monitored for a year following use in this setting.</li>
+	<li>With some NSAID drugs, there exists the potential for increased bleeding time due to interference with thrombocyte aggregation. There have been reports that ocularly applied nonsteroidal anti-inflammatory drugs may cause increased bleeding of ocular tissues (including hyphemas) in conjunction with ocular surgery.</li>
+	<li>There is the potential for cross-sensitivity to acetylsalicylic acid, phenylacetic acid derivatives, and other nonsteroidal anti-inflammatory agents. Therefore, caution should be used when treating individuals who have previously exhibited sensitivities to these drugs.</li>
+</ul>
+
+<p><strong>Effects on ability to drive and use machines</strong></p>
+
+<ul>
+	<li>Effects on ability to drive and use machines patients experiencing visual disturbances, in particular blurred vision, should refrain from driving a vehicle or operating machines.</li>
+</ul>
+
+<p><strong>Precaution: (General)</strong></p>
+
+<ul>
+	<li>Diclofenac potassium tablets cannot be expected to substitute for Corticosteroids or to treat Corticosteroid insufficiency. Abrupt discontinuation of Corticosteroids may lead to disease exacerbation. Patients on prolonged corticosteroid therapy should have their therapy tapered slowly if a decision is made to discontinue Corticosteroids and the patient should be observed closely for any evidence of adverse effects, including adrenal insufficiency and exacerbation of symptoms of Arthritis.</li>
+</ul>
+
+<p><strong>Ophthalmic:</strong></p>
+
+<ul>
+	<li>Use of topical NSAIDs may result in Keratitis, continued use of topical NSAIDs may result in epithelial breakdown, corneal thinning, corneal infiltrates, corneal erosion, corneal ulceration, and corneal perforation.These events may be sight threatening, should be closely monitored for corneal health.</li>
+	<li>Post-marketing experience with topical NSAIDs suggests that patients experiencing complicated ocular surgeries, corneal denervation, corneal epithelial defects, Diabetes mellitus, ocular surface disease (e.g., Dry eye syndrome), Rheumatoid arthritis, or repeat ocular surgeries within a short period-of-time may be at increased risk for corneal adverse events, which may become sight threatening. Topical NSAIDs should be used with caution in these patients.</li>
+	<li>It is recommended that ophthalmic Diclofenac sodium, like other NSAIDs, be used with caution in patients with known bleeding tendencies or who are receiving other medications, which may prolong bleeding time.</li>
+</ul><h3 style="color:#ff5050;">Adverse Reactions</h3><p><strong>Oral</strong> (Tablet), <strong>Parenteral, Topical</strong> (Patch, Solution, Gel)</p><p><strong>Clinically significant adverse reactions:</strong></p><p>Cardiovascular thrombotic events, GI bleeding, Ulceration and Perforation, Hepatotoxicity, Hypertension, Heart failure and Edema, Renal toxicity and Hyperkalemia, Anaphylactic reactions, serious skin reactions, Hematologic toxicity, drug reaction with Eosinophilia and Systemic Symptoms (DRESS) (Topical gel), exacerbation of Asthma related to Aspirin sensitivity (Topical gel), Photosensitivity (Topical gel).[Refer Special warnings and precautions]</p><p><strong>Very common:</strong></p><p><strong>Parenteral:</strong></p><p>Nausea, Headache, Vomiting, Constipation, Flatulence, and Constipation.</p><p><strong>Topical:</strong></p><p>Dryness, Pruritus, Contact dermatitis, Dry skin, Exfoliation, Pain, Paresthesia, Rash, and skin Carcinoma.</p><p><strong>Common:</strong></p><p><strong>Parenteral:</strong></p><p>Infusion site pain, Dizziness, Insomnia, Hypotension, Pyrexia, Anemia, and Infusion site extravasation.</p><p><strong>Topical:</strong></p><p>Dermatitis, Irritation, Erythema, Atrophy, Discoloration, Hyperhidriosis, and Vesicles, Dysgeusia, Dyspepsia, Paresthesia, Somnolence, Hypoesthesia and Hyperkinesias, Abdominal pain, Flatulence, Diarrhea, Nausea, Pharyngitis, Constipation, Edema, Pain, induration, Rash, and Scabbing, Urinary tract infection, Application site induration, Contusion, Accidental injury, Sinus congestion, and Halitosis.</p><p><strong>Ophthalmic: Ocular:</strong> Abnormal vision, Acute elevated IOP, Blurred vision, Conjunctivitis, Corneal deposits, Corneal edema, Corneal opacity, Corneal lesions, Discharge, Eyelid swelling, Injection, Iritis, Irritation, Itching, Lacrimation disorder and Ocular allergy.</p><p><strong>Systemic:</strong> Abdominal pain, Asthenia, Chills, Dizziness, Facial edema, Fever, Headache, Insomnia, Nausea, Pain, Rhinitis, Viral infection, and Vomiting.</p><p><strong>Post-marketing experience</strong></p><p><strong>Oral, Parenteral:</strong></p><p>GI reactions (including abdominal pain, Constipation, Diarrhea, Dyspepsia, Flatulence, Gross bleeding/perforation, Heartburn, Nausea, GI ulcers [gastric/duodenal], and vomiting), Abnormal renal function, Anemia, Dizziness, Edema, Elevated liver enzymes, Headaches, Increased bleeding time, Pruritus, Rashes, and Tinnitus.</p><p><strong>Table 2: Adverse reactions reported occasionally and rarely-Body system wise.</strong></p><table><tbody><tr><td><p>Body as a whole</p></td><td><p>Fever, Infection, Sepsis, Anaphylactic reactions, Appetite changes, and Death.</p></td></tr><tr><td><p>Cardiovascular system</p></td><td><p>Congestive heart failure, Hypertension, Tachycardia, Syncope, Arrhythmia, Hypotension, Myocardial infarction, Palpitations, and Vasculitis.</p></td></tr><tr><td><p>Digestive system</p></td><td><p>Dry mouth, Esophagitis, Gastric/peptic ulcers, Gastritis, Gastrointestinal bleeding, Glossitis, Hematemesis, Hepatitis, Jaundice, Colitis, Eructation, Fulminant hepatitis with and without jaundice, Liver failure, Liver necrosis, and Pancreatitis.</p></td></tr><tr><td><p>Haematological and Lymphatic system</p></td><td><p>Ecchymosis, Eosinophilia, Leukopenia, Melena, Purpura, Rectal bleeding, Stomatitis, Thrombocytopenia, Agranulocytosis, Hemolytic anemia, Aplastic anemia, Lymphadenopathy, and Pancytopenia.</p></td></tr><tr><td><p>Metabolic and Nutritional</p></td><td><p>Weight changes, Hyperglycemia, and increasedCreatinine .</p></td></tr><tr><td><p>Nervous system</p></td><td><p>Anxiety, Asthenia, Confusion, Depression, Dream abnormalities, Drowsiness, Insomnia, Malaise, Nervousness, Paresthesia, Somnolence, Tremors, Vertigo, Convulsions, Coma, Hallucinations, and Meningitis.</p></td></tr><tr><td><p>Musculoskeletal</p></td><td><p>Leg cramps and Myalgia.</p></td></tr><tr><td><p>Respiratory system</p></td><td><p>Pneumonia, Asthma, Dyspnea ,Laryngismus, Laryngitis, Pharyngitis, and Throat swelling.</p></td></tr><tr><td><p>Skin and Appendages</p></td><td><p>Alopecia, Photosensitivity, Sweating increased, Angioedema, Toxic epidermal necrolysis, Erythema multiforme, Exfoliative dermatitis, Stevens-Johnson syndrome, and Urticaria.</p></td></tr><tr><td><p>Special senses</p></td><td><p>Blurred vision, Cataract, Conjunctivitis, and Hearing impairment.</p></td></tr><tr><td><p>Urogenital system</p></td><td><p>Cystitis, Dysuria, Hematuria, Interstitial nephritis, Oliguria/Polyuria, Proteinuria, and Renal failure.</p></td></tr></tbody></table><p><strong>Ophthalmic:</strong></p><p>Corneal erosion, Corneal infiltrates, Corneal perforation, Corneal thinning, Corneal ulceration, Epithelial breakdown, and Superficial punctate keratitis, and Intraocular pressure.</p><p><strong>In case of adverse events, report immediately to the nearby ADR monitoring center to PvPI (toll free 1800 180 3024).</strong></p><h3 style="color:#ff5050;">Drug-Drug Interactions</h3><p><strong>Table 3: Drug-Drug Interactions</strong></p><table><tbody><tr><td><p>Drug name/ Drug class</p></td><td><p>Interaction</p></td><td><p>Clinical comment</p></td></tr><tr><td><p><strong>Drugs that interfere with hemostasis</strong></p><p>[Anticoagulants (e.g., Warfarin), Antiplatelet agents (e.g., Aspirin), Selective serotonin reuptake inhibitors (SSRIs), and Serotonin norepinephrine reuptake inhibitors (SNRIs))</p></td><td><p>Diclofenac and Anticoagulants, such as Warfarin have a synergistic effect on bleeding. </p><p>The concomitant use of Diclofenac and Anticoagulants have an increased risk of serious bleeding compared to the use of either drug alone. </p><p>Serotonin release by platelets plays an important role in hemostasis. </p><p>Concomitant use of drugs that interfere with Serotonin reuptake and an NSAID may potentiate the risk of bleeding more than an NSAID alone.</p></td><td><p>Monitor patients with concomitant use of Diclofenac with Anticoagulants, Antiplatelet agents, Selective serotonin reuptake inhibitors, and Serotonin norepinephrine reuptake inhibitors for signs of bleeding. </p></td></tr><tr><td><p>Aspirin </p></td><td><p>The concomitant use of NSAIDs and analgesic doses of Aspirin does not produce any greater therapeutic effect than the use of NSAIDs alone. Concomitant use of an NSAID and Aspirin was associated with a significantly increased incidence of GI adverse reactions as compared to use of the NSAID alone.</p></td><td><p>Concomitant use of Diclofenac and analgesic doses of Aspirin is not generally recommended because of the increased risk of bleeding.</p><p>Diclofenac is not a substitute for low dose Aspirin for cardiovascular protection. </p></td></tr><tr><td><p>Angiotensin Converting Enzyme (ACE) inhibitors, Angiotensin Receptor Blockers (ARBs), or beta-blockers (including Propranolol)</p></td><td><p>NSAIDs may diminish the Antihypertensive effect of Angiotensin converting enzyme inhibitors, Angiotensin receptor blockers, or Beta-blockers. </p><p>Co-administration of an NSAID with ACE inhibitors or ARBs may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible in elderly, volume-depleted (including those on diuretic therapy), or have Renal impairment.</p></td><td><p>Monitor blood pressure to ensure that the desired blood pressure is obtained when concomitant use.</p><p>During concomitant use in patients who are elderly, volume-depleted, or have impaired renal function, Monitor for signs of worsening renal function.</p><p>When these drugs are administered concomitantly, patients should be adequately hydrated. Assess renal function at the beginning of the concomitant treatment and periodically thereafter. </p></td></tr><tr><td><p>Diuretics </p></td><td><p>NSAIDs reduced the natriuretic effect of Loop diuretics (e.g., Furosemide) and Thiazide diuretics in some patients. This effect has been attributed to the NSAID inhibition of renal prostaglandin synthesis.</p></td><td><p>During concomitant use of Diclofenac with Diuretics, observe patients for signs of worsening renal function, in addition to assuring diuretic efficacy, including Antihypertensive effects. </p></td></tr><tr><td><p>Digoxin </p></td><td><p>The concomitant use of Diclofenac with Digoxin has been reported to increase the serum concentration and prolong the half-life of Digoxin. </p></td><td><p>During concomitant use monitor serum Digoxin levels.</p></td></tr><tr><td><p>Lithium</p></td><td><p>NSAIDs have produced elevations in plasma Lithium levels and reductions in renal Lithium clearance. This effect has been attributed to NSAID inhibition of renal prostaglandin synthesis.</p></td><td><p>During concomitant use of Diclofenac and Lithium, monitor patients for signs of Lithium toxicity. </p></td></tr><tr><td><p>Methotrexate</p></td><td><p>Concomitant use of NSAIDs and Methotrexate may increase the risk for Methotrexate toxicity (e.g., neutropenia, thrombocytopenia, renal dysfunction). </p></td><td><p>Monitor patients for Methotrexate toxicity when used concomitantLy.</p></td></tr><tr><td><p>Cyclosporine</p></td><td><p>Concomitant use of Diclofenac and Cyclosporine may increase Cyclosporine’s Nephrotoxicity. </p></td><td><p>Monitor patients for signs of worsening renal function. </p></td></tr><tr><td><p>NSAIDs and Salicylates</p></td><td><p>Concomitant use of Diclofenac with other NSAIDs or Salicylates (e.g., Diflunisal, Salsalate) increases the risk of GI toxicity, with little or no increase in efficacy.</p></td><td><p>The concomitant use of Diclofenac with other NSAIDs or Salicylates is not recommended. </p></td></tr><tr><td><p>Pemetrexed </p></td><td><p>Concomitant use of Diclofenac and Pemetrexed may increase the risk of Pemetrexed associated Myelosuppression, renal, and GI toxicity.</p></td><td><p>During concomitant use of Diclofenac and Pemetrexed, in patients with Renal impairment whose creatinine clearance ranges from 45 to 79 mL/min, monitor for Myelosuppression, renal, and GI toxicity. </p><p>NSAIDs with short elimination half-lives (e.g., Diclofenac, Indomethacin) should be avoided for a period of 2 days before, the day of, and 2 days following administration of Pemetrexed. </p></td></tr><tr><td><p>Acetaminophen </p></td><td><p>There may be an increased risk of adverse renal effects when administered Diclofenac concomitantly with NSAIDs. </p></td><td><p>Caution is recommended.</p></td></tr><tr><td><p>Antacids </p></td><td><p>Concomitant administration of Antacids with NSAIDs may affect the rate, but generally not the extent of the absorption of the NSAID. </p></td><td><p>Caution is recommended.</p></td></tr><tr><td><p>Glucocorticoids </p></td><td><p>Concomitant use of NSAIDs and oral glucocorticoids increases the risk of GI adverse events such as Ulceration and bleeding (especially in Geriatrics). </p></td><td><p>Caution is recommended.</p></td></tr><tr><td><p>Oral Hypoglycemics </p></td><td><p>Hypoglycemic and Hyperglycemic effects in the presence of Diclofenac, which necessitated changes in the dosage of Hypoglycemic agents.</p><p>There have also been reports of metabolic acidosis when co-administered with Metformin, particularly in the context of Renal impairment.</p></td><td><p>Monitoring of the blood glucose level is recommended as a precautionary measure during concomitant therapy.</p><p>Caution is recommended when co-prescribing Diclofenac with Metformin. </p></td></tr><tr><td><p>Phenytoin </p></td><td><p>Phenytoin concomitantly with Diclofenac expected increase in exposure to Phenytoin.</p></td><td><p>Monitoring of Phenytoin plasma concentration is recommended.</p></td></tr><tr><td><p>Probenecid</p></td><td><p>Probenecid may decrease the excretion and increase serum concentrations of NSAIDs possibly enhancing effectiveness and/or increasing potential for toxicity.</p></td><td><p>Concurrent therapy of NSAIDs with Probenecid requires close monitoring to be certain that no change in dosage is necessary.</p></td></tr><tr><td><p>Quinolone antibacterials </p></td><td><p>Convulsions which may have been due to concomitant use of Quinolones and NSAIDs. </p></td><td><p>Caution is recommended.</p></td></tr><tr><td><p>CYP2C9 inhibitors (such as Sulfinpyrazone)</p></td><td><p>Result in a significant increase in peak plasma concentrations and exposure to Diclofenac. </p></td><td><p>Caution is recommended when co-prescribing Diclofenac with Sulfinpyrazone, Dosage adjustment may be required. </p></td></tr><tr><td><p>CYP2C9 inhibitors (e.g., Voriconazole), CYP2C9 inducers (e.g., Rifampin) </p></td><td><p>Co-administration of Diclofenac with CYP2C9 inhibitors may enhance the exposure and toxicity of Diclofenac whereas co-administration with CYP2C9 inducers may lead to compromised efficacy of Diclofenac. </p></td><td><p>A dosage adjustment may be warranted when Diclofenac is administered with CYP2C9 inhibitors or inducers.</p></td></tr><tr><td><p>Tacrolimus</p></td><td><p>Nephrotoxicity of Tacrolimus may be increased because of the effect of NSAIDs on renal prostaglandins.</p></td><td><p>Patients treated with Tacrolimus should receive doses of Diclofenac lower than the regular doses.</p></td></tr><tr><td><p>Topical corticosteroids</p></td><td><p>Concomitant use of Diclofenac (Ophthalmic solution) with Topical Corticosteroids in patients with significant pre-existing corneal inflammation may increase the risk of developing corneal complications, such as slowed or delayed corneal healing.</p></td><td><p>Caution is recommended. </p></td></tr></tbody></table><h3 style="color:#ff5050;">Use in Renal Impairment</h3><p><strong>Injection:</strong></p>
+
+<ul>
+	<li>Diclofenac is <strong>not</strong> recommended in patients with moderate to severe renal insufficiency and is contraindicated in patients with moderate to severe renal insufficiency in the perioperative period and who are at risk for volume depletion.</li>
+</ul><h3 style="color:#ff5050;">Use in Hepatic Impairment</h3><p><strong>Injection:</strong></p>
+
+<ul>
+	<li>Orally administered Diclofenac is extensively metabolized. The pharmacokinetics of Diclofenac are similar in patients with mild Hepatic impairment compared to healthy subjects Dosing adjustments in patients with mild Hepatic impairment is not necessary.</li>
+	<li>The pharmacokinetics of Diclofenac was not studied in patients with moderate to severe Hepatic impairment and use in this population is not recommended.</li>
+</ul>
+
+<p><strong>Ophthalmic solution/drops:</strong></p>
+
+<ul>
+	<li>The effect of Hepatic impairment on Diclofenac pharmacokinetics is not well understood; however, there were no detectable levels of drug in plasma, indicating that no measurable systemic absorption occurs following a single instillation of the ophthalmic drops.</li>
+</ul><h3 style="color:#ff5050;">Females and Males of Reproductive Potential</h3><p><strong>Injection and Topical solution:</strong></p>
+
+<p><strong>Infertility:</strong></p>
+
+<p>Females</p>
+
+<ul>
+	<li>Based on the mechanism of action, the use of prostaglandin-mediated NSAIDs, including Diclofenac, may delay or prevent rupture of ovarian follicles, which has been associated with reversible infertility in some women.</li>
+	<li>Published animal studies have shown that administration of prostaglandin synthesis inhibitors has the potential to disrupt prostaglandin-mediated follicular rupture required for ovulation.</li>
+	<li>Small studies in women treated with NSAIDs have also shown a reversible delay in ovulation. Consider withdrawal of NSAIDs, including Diclofenac, in women who have difficulties conceiving or who are undergoing investigation of infertility.</li>
+</ul>
+
+<p>Males:</p>
+
+<ul>
+	<li>Published studies in adult male rodents report that Diclofenac, at clinically relevant doses, can produce adverse effects on male reproductive tissues. The impact of these findings on male fertility is not clear.</li>
+</ul><h3 style="color:#ff5050;">Use in Geriatrics</h3><ul>
+	<li>Elderly patients, compared to younger patients, are at greater risk for NSAID-associated serious cardiovascular, gastrointestinal, and/or renal adverse reactions.</li>
+	<li>If the anticipated benefit for the elderly patient outweighs these potential risks, start dosing at the low end of the dosing range, and monitor patients for adverse effects.</li>
+	<li>Diclofenac is known to be substantially excreted by the kidney, and the risk of adverse reactions to this drug may be greater in patients with impaired renal function.</li>
+	<li>Because elderly patients are more likely to have decreased renal function, care should be taken in dose selection, and it may be useful to monitor renal function.</li>
+</ul><h3 style="color:#ff5050;">Use in Pediatrics</h3><p><strong>Tablet, Injection, Topical solution and Ophthalmic solution/drops:</strong></p>
+
+<ul>
+	<li>Safety and effectiveness in pediatric patients have not been established.</li>
+</ul>
+
+<p><strong>Transdermal patch:</strong></p>
+
+<ul>
+	<li>The safety and effectiveness of Transdermal patch 1.3% have been established in pediatric patients 6 years and older based on evidence from adequate and well-controlled studies.</li>
+	<li>Based on the available data from the pediatric study, the safety profile of Transdermal patch in pediatric patients is similar to that in adults. The safety and effectiveness of Transdermal patch has not been investigated in pediatric patients less than 6 years old.</li>
+</ul>
+
+<p><strong>Gel:</strong></p>
+
+<ul>
+	<li>Actinic keratosis is not a condition seen within the pediatric population.</li>
+	<li>Diclofenac sodium should <strong>not</strong> be used by children.</li>
+</ul><h3 style="color:#ff5050;">Use in Lactation</h3><p><strong>Tablet, Injection, Topical solution, Transdermal patch Gel 3% and Ophthalmic solution/drops:</strong></p>
+
+<p>Risk summary:</p>
+
+<ul>
+	<li>Based on available data, Diclofenac may be present in human milk. The developmental and health benefits of breastfeeding should be considered along with the mother's clinical need for Diclofenac and any potential adverse effects on the breastfed infant from the Diclofenac or from the underlying maternal condition.</li>
+</ul><h3 style="color:#ff5050;">Use in Pregnancy</h3><p>US FDA Pregnancy Category-C(Prior to 30 weeks gestation)
+US FDA PregnancyCategory-D(Starting at 30 weeks gestation)</p>
+
+<p><strong>Tablet, Injection, Topical solution, Gel, Transdermal patch:</strong></p>
+
+<p>Risk summary</p>
+
+<ul>
+	<li>Use of NSAIDs, including Diclofenac, can cause premature closure of the fetal ductus arteriosus and fetal renal dysfunction leading to Oligohydramnios and, in some cases, neonatal Renal impairment. Because of these risks, limit dose and duration of Diclofenac use between about 20 and 30 weeks of gestation, and avoid Diclofenac use at about 30 weeks of gestation and later in pregnancy.</li>
+	<li>There are no adequate and well-controlled studies of Diclofenac in pregnant women.</li>
+</ul>
+
+<p><strong>Ophthalmic solution/drops:</strong></p>
+
+<p>Teratogenic effects</p>
+
+<ul>
+	<li>There are, however, no adequate and well-controlled studies in pregnant women. Because animal reproduction studies are not always predictive of human response, this drug should be used during pregnancy only if clearly needed.</li>
+</ul>
+
+<p>Non-teratogenic effects</p>
+
+<ul>
+	<li>Because of the known effects of prostaglandin biosynthesis-inhibiting drugs on the fetal cardiovascular system (closure of ductus arteriosus), the use of Diclofenac (Ophthalmic) during late pregnancy should be avoided.</li>
+</ul>
+
+<p><strong>Labor or Delivery:</strong></p>
+
+<p><strong>Tablet, Injection,Topical solution, Gel:</strong></p>
+
+<ul>
+	<li>There are no studies on the effects of Diclofenac during labor or delivery. In animal studies, NSAIDs, including Diclofenac, inhibit prostaglandin synthesis, cause delayed parturition, and increase the incidence of Stillbirth.</li>
+</ul><h3 style="color:#ff5050;">Pharmaceutical Information</h3><p>International Non-proprietary name (INN):diclofenac</p>
+
+<p><strong>Diclofenac:</strong></p>
+
+<p>Chemical structure:</p>
+
+
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<p>Chemical name</p>
+
+			
+			</td>
+			<td>
+			<p>2-[2-(2, 6-dichloroanilino)phenyl]acetic acid.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Molecular formula</p>
+
+			
+			</td>
+			<td>
+			<p>C14H11Cl2NO2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Molecular weight</p>
+
+			
+			</td>
+			<td>
+			<p>296.1 g/mol.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Physical State</p>
+			</td>
+			<td>
+			<p>Solid</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Melting point</p>
+			</td>
+			<td>
+			<p>283-285 °C</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Solubility</p>
+			</td>
+			<td>
+			<p>Soluble n water, 2.37 mg/L at 25 °C </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+<p>Diclofenac potassium:</p>
+
+<p>Chemical structure: (25)</p>
+
+
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<p>Chemical name</p>
+
+			
+			</td>
+			<td>
+			<ul>
+				<li>Potassium; 2-[2-(2, 6-dichloroanilino) phenyl] acetate <strong></strong><a href="https://pubchem.ncbi.nlm.nih.gov/compound/23667642" rel="noopener noreferrer" target="_blank"><sup>(25)</sup></a><strong></strong></li>
+				<li>2-[(2,6-dichlorophenyl) amino] benzeneacetic acid <strong></strong> <a href="https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfmsetid=82218d5c-1625-471a-aabe-f43338e5176b&amp;type=display" rel="noopener noreferrer" target="_blank"><sup>(6)</sup></a><strong></strong></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+<p>Diclofenac sodium:</p>
+
+<p>Chemical structure: (26)</p>
+
+
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<p>Chemical name</p>
+
+			
+			</td>
+			<td>
+			<ul>
+				<li>Sodium; 2-[2-(2, 6-dichloroanilino) phenyl] acetate <a href="https://pubchem.ncbi.nlm.nih.gov/compound/5018304" rel="noopener noreferrer" target="_blank"><sup>(26)</sup></a></li>
+				<li>2-[(2,6-dichlorophenyl) amino] benzeneacetic acid, monosodium salt. <strong></strong><a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022396s003lbl.pdf" rel="noopener noreferrer" target="_blank"><sup>(9)</sup></a><strong></strong></li>
+			</ul>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Molecular formula</p>
+
+			
+			</td>
+			<td>
+			<p>C14H10Cl2NO2Na  (9)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Molecular weight</p>
+
+			
+			</td>
+			<td>
+			<p>318.1 g/mol.(9)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Physical State</p>
+			</td>
+			<td>
+			<p>It is a white to off-white, virtually odorless, crystalline powder. (9)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Solubility</p>
+			</td>
+			<td>
+			<p>It is freely soluble in methanol, soluble in ethanol, and practically insoluble in chloroform and in dilute acid. Diclofenac sodium is sparingly soluble in water. (9) </p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+<p>Diclofenac diethylamine: <a href=" https://pdf.hres.ca/dpd_pm/00064138.PDF">(18)</a></p>
+
+<p>Chemical structure:</p>
+
+
+
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<p>Chemical name</p>
+
+			
+			</td>
+			<td>
+			<p>Diethylammonium {o-[(2,6-dichlorophenyl)-amino]-phenyl} acetate.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Molecular formula</p>
+
+			
+			</td>
+			<td>
+			<p>C18H22Cl2N2O2</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Molecular weight</p>
+
+			
+			</td>
+			<td>
+			<p>369.3 g/mol.</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>Physical State</p>
+			</td>
+			<td>
+			<p>Diclofenac diethylamine is a white to light beige crystalline powder.</p>
+			</td>
+		</tr>
+	</tbody>
+</table><h3 style="color:#ff5050;">References</h3><p>1.<a href="https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesa urus&amp;version=22.08e&amp;ns=ncit&amp;code=C28985&amp;key=2131003509&amp;b=1&amp;n=null" target="_blank">https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&amp;version=22.08e&amp;ns=ncit&amp;code=C28985&amp;key=2131003509&amp;b=1&amp;n=null</a></p>
+
+<p>2.https://www.whocc.no/atc_ddd_index/?code=m01ab05</p>
+
+<p>3.https://www.whocc.no/atc_ddd_index/?code=D11AX18</p>
+
+<p>4.https://www.whocc.no/atc_ddd_index/?code=M02AA15</p>
+
+<p>5.https://www.whocc.no/atc_ddd_index/?code=S01BC03</p>
+
+<p>6.https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=82218d5c-1625-471a-aabe-f43338e5176b&amp;type=display</p>
+
+<p>7.<a href="https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/022202s013s014lbl.p" target="_blank">https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/022202s013s014lbl.p</a></p>
+
+<p>8.https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=f675a627-c944-4ec6-8c08-b5fdb78dc269&amp;type=display</p>
+
+<p>9.https://www.accessdata.fda.gov/drugsatfda_docs/label/2016/022396s003lbl.pdf</p>
+
+<p>10.https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=45321aec-368d-4ca4-a0c5-2ce56fae74b2&amp;type=display</p>
+
+<p>11.<a href="https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=48435969-7c5a-47d0-b0be-8549bbf5725f&amp;type=display#section-2" target="_blank">https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=48435969-7c5a-47d0-b0be-8549bbf5725f&amp;type=display#section-2</a></p>
+
+<p>12.https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=74169b2d-ac56-4757-86c4-cdcfcd5f4eb5&amp;type=display</p>
+
+<p>   12a.<a href="https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=11e975a3-d93b-4f60-91b7-826bee8e47c6&amp;type=display" target="_blank">https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=11e975a3-d93b-4f60-91b7-826bee8e47c6&amp;type=display</a></p>
+
+<p>13.https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=41c80e79-36fd-4b90-bae1-55d6042c3ca2&amp;type=display</p>
+
+<p>14.https://pdf.hres.ca/dpd_pm/00067607.PDF</p>
+
+<p>15.https://pdf.hres.ca/dpd_pm/00063848.PDF</p>
+
+<p>16.https://pdf.hres.ca/dpd_pm/00066637.PDF</p>
+
+<p>17.<a href="https://pdf.hres.ca/dpd_pm/00069162.PDF" target="_blank">https://pdf.hres.ca/dpd_pm/00069162.PDF</a></p>
+
+<p>18.https://pdf.hres.ca/dpd_pm/00064138.PDF</p>
+
+<p>19.https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&amp;id=CP-2010-PI-04337-3</p>
+
+<p>20.https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&amp;id=CP-2021-PI-01110-1</p>
+
+<p>21.https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&amp;id=CP-2021-PI-02150-1</p>
+
+<p>22.https://www.ebs.tga.gov.au/ebs/picmi/picmirepository.nsf/pdf?OpenAgent&amp;id=CP-2017-PI-02070-1</p>
+
+<p>23.https://www.ncbi.nlm.nih.gov/books/NBK557879/#:~:text=Diclofenac%20has%20been%20used%20off,is%20only%20available%20via%20prescription</p>
+
+<p>24.https://pubchem.ncbi.nlm.nih.gov/compound/3033</p>
+
+<p>25.https://pubchem.ncbi.nlm.nih.gov/compound/23667642</p>
+
+<p>26.https://pubchem.ncbi.nlm.nih.gov/compound/5018304</p>`

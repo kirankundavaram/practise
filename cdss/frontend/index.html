@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CDSS Step-2</title>
+</head>
+<body>
+<h2>CDSS – Step 2 (API Test)</h2>
+
+<textarea id="patient" rows="4" cols="60">
+65 year old patient with diabetes
+</textarea><br><br>
+
+<input id="drug" value="Metformin"><br><br>
+
+<textarea id="druginfo" rows="4" cols="60">
+Contraindicated in renal impairment
+</textarea><br><br>
+
+<button onclick="sendData()">Submit</button>
+
+<pre id="result"></pre>
+
+<script>
+async function sendData() {
+  const response = await fetch("http://127.0.0.1:8000/api/check-drug", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      patient_details: patient.value,
+      drug_name: drug.value,
+      drug_information: druginfo.value
+    })
+  });
+
+  const data = await response.json();
+  result.innerText = JSON.stringify(data, null, 2);
+}
+</script>
+</body>
+</html>
