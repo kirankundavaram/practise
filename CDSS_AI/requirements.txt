@@ -4,3 +4,4 @@ streamlit
 python-docx
 requests
 pydantic
+panda
